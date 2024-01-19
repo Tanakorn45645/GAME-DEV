@@ -1,4 +1,4 @@
 #GAME-DEV
-<img src =/งาน.PNG>
+<img src =/game.PNG>
 
 Funny GAME
